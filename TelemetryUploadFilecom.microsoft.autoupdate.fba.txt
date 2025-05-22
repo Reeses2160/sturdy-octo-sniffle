@@ -1,0 +1,23 @@
+[Microsoft Update Assistant] <Info> Configuration.Metadata: {"Payload":"Initializing configuration. Session ID: 751B7FB6-6EAC-4780-A87D-E948F3FD02D8"}
+[Microsoft Update Assistant] <Info> LifeCycle.PreviousExitData: {"PrevSessionLongBuildNumber":"25033028","PrevExitWasGraceful":"NO","PrevSessionDetectedHangCount":0,"PrevSessionId":"CE1D38DF-83BF-4532-96AC-106610037E1A","PrevSessionVersion":"4.79","PrevSessionBuildNumber":"0","ExitedDuringOperation":"Restoring","PrevSessionOSLocale":"en_US","LastULSLogTag":0,"ExceptionEnum":279773184,"PrevSessionOSVersion":"15.4.1"}
+[Microsoft Update Assistant] <Info> AppRegistry.Info: {"Payload":{"OLIC02":{"Copies":1,"Versions":["16.77.23091003"]},"MSau04":{"Copies":1,"Versions":["4.79.25033028"]},"ONDR18":{"Copies":1,"Versions":["25065.0406.0002"]},"TEAMS21":{"Copies":1,"Versions":["25107.1606.3643.3915"]},"MSWD2019":{"Copies":1,"Versions":["16.97.25051816"]},"XCEL2019":{"Copies":1,"Versions":["16.97.25051114"]},"PPT32019":{"Copies":1,"Versions":["16.97.25051114"]},"OPIM2019":{"Copies":1,"Versions":["16.97.25051816"]}}}
+[Microsoft Update Assistant] <Info> InstallStatus.Helper: {"Payload":"HelperTool Status: OK"}
+[Microsoft Update Assistant] <Info> LifeCycle.Launch: {"LaunchedBy":"LaunchAgent"}
+[Microsoft Update Assistant] <Warning> ErrorsAndWarnings: {"Error":{"ResponseTime":31.548976898193359,"CallerID":"MWSOnBoot","ErrorDomain":"NSURLErrorDomain","API":"/Actions","ErrorCode":"-1009","Timeout":"NO"},"Operation":"WebService"}
+[Microsoft Update Assistant] <Info> WebServices.ServiceResponse: {"ResponseTime":31.548976898193359,"CallerID":"MWSOnBoot","API":"/Actions","Timeout":"NO"}
+[Microsoft Update Assistant] <Info> UpdateCore.AppRegistration: {"Payload":"Attempted to register: MSau04, Preferences Available: YES, Re-Registration: YES, Success:NO"}
+[Microsoft Update Assistant] <Warning> ErrorsAndWarnings: {"Error":{"ResponseTime":5.3930282592773438,"CallerID":"MWSOnCheckForUpdate","ErrorDomain":"NSURLErrorDomain","API":"/Actions","ErrorCode":"-1009","Timeout":"NO"},"Operation":"WebService"}
+[Microsoft Update Assistant] <Info> WebServices.ServiceResponse: {"ResponseTime":5.3930282592773438,"CallerID":"MWSOnCheckForUpdate","API":"/Actions","Timeout":"NO"}
+[Microsoft Update Assistant] <Info> ErrorsAndWarnings: {"Error":"unable to connect to server. ServerName: officecdnmac.microsoft.com, ValidFlags: TRUE, ReachabilityFlags: 0","Operation":"Server"}
+[Microsoft Update Assistant] <Info> UpdateManager.Network: {"ServerReachable":"NO"}
+[Microsoft Update Assistant] <Warning> ErrorsAndWarnings: {"Error":{"ResponseTime":2.7620792388916016,"CallerID":"MWSOnCheckForUpdate","ErrorDomain":"NSURLErrorDomain","API":"/Actions","ErrorCode":"-1009","Timeout":"NO"},"Operation":"WebService"}
+[Microsoft Update Assistant] <Info> WebServices.ServiceResponse: {"ResponseTime":2.7620792388916016,"CallerID":"MWSOnCheckForUpdate","API":"/Actions","Timeout":"NO"}
+[Microsoft Update Assistant] <Info> ErrorsAndWarnings: {"Error":"unable to connect to server. ServerName: officecdnmac.microsoft.com, ValidFlags: TRUE, ReachabilityFlags: 0","Operation":"Server"}
+[Microsoft Update Assistant] <Info> UpdateManager.Network: {"ServerReachable":"NO"}
+[Microsoft Update Assistant] <Info> LifeCycle.Terminate: {"SessionLength":"40"}
+[Microsoft Update Assistant] <Info> Configuration.Metadata: {"Payload":"Initializing configuration. Session ID: 379DCAEF-753F-4C3E-BF4F-AA1A50F42E2C"}
+[Microsoft Update Assistant] <Info> LifeCycle.PreviousExitData: {"PrevSessionDetectedHangCount":0,"PrevSessionDurationSeconds":39.899363994598389,"PrevSessionTerminationDurationSeconds":769612242.48093796,"PrevSessionVersion":"4.79","PrevExitWasGraceful":"YES","PrevSessionLongBuildNumber":"25033028","PrevSessionId":"751B7FB6-6EAC-4780-A87D-E948F3FD02D8","PrevSessionOSLocale":"en_US","LastULSLogTag":0,"ExceptionEnum":1611464704,"PrevSessionBuildNumber":"0","PrevSessionOSVersion":"15.4.1"}
+[Microsoft Update Assistant] <Info> AppRegistry.Info: {"Payload":{"OLIC02":{"Copies":1,"Versions":["16.77.23091003"]},"MSau04":{"Copies":1,"Versions":["4.79.25033028"]},"ONDR18":{"Copies":1,"Versions":["25075.0420.0002"]},"TEAMS21":{"Copies":1,"Versions":["25107.1606.3643.3915"]},"MSWD2019":{"Copies":1,"Versions":["16.97.25051816"]},"XCEL2019":{"Copies":1,"Versions":["16.97.25051114"]},"PPT32019":{"Copies":1,"Versions":["16.97.25051114"]},"OPIM2019":{"Copies":1,"Versions":["16.97.25051816"]}}}
+[Microsoft Update Assistant] <Info> InstallStatus.Helper: {"Payload":"HelperTool Status: OK"}
+[Microsoft Update Assistant] <Info> LifeCycle.Launch: {"LaunchedBy":"Direct"}
+[Microsoft Update Assistant] <Info> LifeCycle.Terminate: {"SessionLength":"0"}
